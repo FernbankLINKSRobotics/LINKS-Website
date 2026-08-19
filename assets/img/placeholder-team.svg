@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Fernbank LINKS">
+  <rect width="1200" height="630" fill="#14181C"/>
+  <g fill="none" stroke-width="14">
+    <rect x="440" y="240" width="180" height="120" rx="60" stroke="#E22B2B"/>
+    <rect x="580" y="240" width="180" height="120" rx="60" stroke="#1668C4"/>
+  </g>
+  <text x="600" y="450" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-weight="bold" font-size="54" letter-spacing="2" fill="#FBFBFA">FERNBANK LINKS</text>
+  <text x="600" y="500" text-anchor="middle" font-family="monospace" font-size="22" letter-spacing="8" fill="#F2C230">FRC 4468 · BEST 701</text>
+</svg>

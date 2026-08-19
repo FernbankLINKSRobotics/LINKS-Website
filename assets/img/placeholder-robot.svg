@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Photo placeholder">
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#C9CFC9" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="600" fill="#DADEDA"/>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <rect x="1" y="1" width="798" height="598" fill="none" stroke="#B6BDB6" stroke-width="2"/>
+  <g stroke="#14181C" stroke-width="8" fill="none" stroke-linecap="round">
+    <rect x="300" y="250" width="200" height="150" rx="10"/>
+    <path d="M330 250v-40h140v40"/>
+    <path d="M370 210v-30M430 210v-30"/>
+    <circle cx="370" cy="180" r="12" fill="#E22B2B" stroke="none"/>
+    <circle cx="430" cy="180" r="12" fill="#1668C4" stroke="none"/>
+    <path d="M300 300h-45M500 300h45"/>
+  </g>
+  <circle cx="345" cy="425" r="30" fill="none" stroke="#14181C" stroke-width="8"/>
+  <circle cx="455" cy="425" r="30" fill="none" stroke="#14181C" stroke-width="8"/>
+  <text x="400" y="510" text-anchor="middle" font-family="monospace" font-size="20" letter-spacing="4" fill="#5C6771">REPLACE WITH PHOTO</text>
+</svg>
