@@ -236,7 +236,7 @@ a{ color:inherit; }
 .hero-title{
   font-family:var(--display);
   font-variation-settings:"wdth" 118;
-  font-weight:900;
+  font-weight:425;
   font-size:clamp(38px,7.4vw,88px);
   line-height:.98;
   letter-spacing:-.035em;
@@ -287,7 +287,7 @@ a{ color:inherit; }
 .plate-number{
   font-family:var(--display);
   font-variation-settings:"wdth" 92;
-  font-weight:900; font-size:52px; line-height:1.02;
+  font-weight:500; font-size:52px; line-height:1.02;
   letter-spacing:-.03em; color:var(--paper);
 }
 .plate-note{ font-size:13.5px; color:#B4C0CA; }
