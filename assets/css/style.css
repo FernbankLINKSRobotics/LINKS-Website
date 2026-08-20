@@ -85,7 +85,7 @@ a{ color:inherit; }
 .h2{
   font-family:var(--display);
   font-variation-settings:"wdth" 112;
-  font-weight:800;
+  font-weight:700;
   font-size:clamp(28px,4.2vw,48px);
   line-height:1.06;
   letter-spacing:-.02em;
