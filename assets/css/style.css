@@ -21,8 +21,8 @@
   --hair:        rgba(20,24,28,.14);
   --hair-dark:   rgba(255,255,255,.16);
 
-  --display: "Archivo", "Helvetica Neue", Arial, sans-serif;
-  --body:    "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --display: "Bebas Neue", "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --body:    "Proxima Nova", "Public Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --mono:    "Azeret Mono", ui-monospace, "SF Mono", Menlo, monospace;
 
   --wrap: 1180px;
